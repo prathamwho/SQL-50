@@ -9,4 +9,4 @@ A curated set of 50 SQL questions with solutions, designed to strengthen databas
 ## About Me
 
 I'm a B.Tech CSE student passionate about **data, development, and problem-solving**.  
-Connect with me on [LinkedIn]](https://www.linkedin.com/in/pratham-raj-5909a4328/) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-raj-5909a4328/) 
