@@ -1,4 +1,5 @@
-SELECT today.id from Weather as today
+SELECT today.id 
+FROM Weather AS today
 WHERE EXISTS
 
 (SELECT 1 FROM Weather AS yesterday
